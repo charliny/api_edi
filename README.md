@@ -18,5 +18,5 @@ Em uma loja virtual por exemplo, quando um visitante insere o CEP para receber o
 
 ## Meta
 
-Jéssica C Ramos – [@Jéssica C Ramos](https://www.linkedin.com/in/jessica-charliny-ramos-0b31781ba/) – jessicacharliny@gmail.com
+Jéssica C Ramos – [@Jéssica C Ramos](https://www.linkedin.com/in/jessica-charliny-ramos-0b31781ba/)
 
