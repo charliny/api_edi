@@ -1,4 +1,4 @@
-# API_EDI_AUTO
+# API_EDI
 > API desenvolvida para enviar informações a Frete Rápido
 
 
@@ -18,5 +18,5 @@ Em uma loja virtual por exemplo, quando um visitante insere o CEP para receber o
 
 ## Meta
 
-Jéssica C Ramos – [@Jéssica C Ramos](https://www.linkedin.com/in/jessica-charliny-ramos-0b31781ba/)
+Jéssica Ramos – [@Jéssica Ramos](https://www.linkedin.com/in/jessica-charliny-ramos-0b31781ba/)
 
